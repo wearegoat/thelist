@@ -24,5 +24,4 @@ The list of things to check out. Going to update now and then:)
 ### Music from contributors
 
 - ... (create a [PR](https://help.github.com/articles/using-pull-requests/) with spotify playlist/soundcloud link/youtube link)
-- 
 
