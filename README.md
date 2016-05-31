@@ -25,5 +25,5 @@ The list of things to check out. Going to update now and then:)
 
 - ... (create a [PR](https://help.github.com/articles/using-pull-requests/) with spotify playlist/soundcloud link/youtube link)
 
--[Sam's Playlist](https://open.spotify.com/user/11125524420/playlist/5VXuXM1iQc28o1LlxKOIeJ)
+- [Sam's Playlist](https://open.spotify.com/user/11125524420/playlist/5VXuXM1iQc28o1LlxKOIeJ)
 
