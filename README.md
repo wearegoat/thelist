@@ -27,3 +27,4 @@ The list of things to check out. Going to update now and then:)
 
 - [Sam's Playlist](https://open.spotify.com/user/11125524420/playlist/5VXuXM1iQc28o1LlxKOIeJ)
 
+- [Sam's Better PlayList](https://open.spotify.com/user/11125524420/playlist/6C1kR9qneDyQpfBStruhGn)
