@@ -1,4 +1,4 @@
-# the list
+# The list
 The list of things to check out. Going to update now and then:)
 
 ### Javascript
